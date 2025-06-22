@@ -25,6 +25,8 @@ ________________________
 git config --global user.name ""
 git config --gloabl user.email ""
 
+Note :  if the git already installed than goto in search credential manager and remove the username and password.
+
 Let's go over the explanation of Git Architecture in detail:
 
 1) Working Tree
